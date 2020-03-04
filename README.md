@@ -8,3 +8,4 @@ If you want to run an app just download App folder and run it on your machine.
 In case you want to have fun with code (feel free to do it), download project and set it up in VS. Just remember to add Qt VS Tools to your VS extensions (and add requaired path to your Qt directory). You can find needed information here: https://doc.qt.io/qtvstools/qtvstools-getting-started.html
 
 # Screenshots
+![screenshots/interfejs.png]
