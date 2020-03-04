@@ -9,3 +9,5 @@ In case you want to have fun with code (feel free to do it), download project an
 
 # Screenshots
 ![](screenshots/interfejs.PNG)
+![](screenshots/working.PNG)
+![](screenshots/working_last.PNG)
